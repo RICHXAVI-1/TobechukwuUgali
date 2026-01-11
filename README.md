@@ -57,8 +57,8 @@ Extracted and analyzed data from APIs to support reporting and analytics use cas
 
 ## 📫 Connect With Me
 
-- **LinkedIn:** https://www.linkedin.com/in/tobechukwu-ugali-781b021a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-- **Email:** ugalixavier@gmail.com  
+- **LinkedIn:** https://ng.linkedin.com/in/tobechukwu-ugali-781b021a0
+- **Email:** xavierugali@gmail.com  
 - **GitHub:** https://github.com/RICHXAVI-1?tab=repositories
 - **Website:** https://mrproject.pythonanywhere.com
 
